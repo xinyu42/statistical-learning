@@ -58,13 +58,13 @@ The lectures and tutorials also draw on material from:
 
 ## Other resources
 
-Students are highly encouraged to encourage to consider the following additonal resouces.
+Students are highly encouraged to encourage to consider the following additional resources.
 
 [A Mind for Numbers: How to Excel at Math and Science](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/) by Barbara Oakley.
 
-[Dataquest](https://www.dataquest.io/) (Python online course).
+[Dataquest](https://www.dataquest.io/) (Python course online).
 
-[DataCamp](https://www.datacamp.com/) (Python online course).
+[DataCamp](https://www.datacamp.com/) (Python course  online).
 
 [Learning Data Science (Kaggle Wiki)](https://www.kaggle.com/wiki/Home)
 
