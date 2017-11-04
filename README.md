@@ -5,7 +5,7 @@ This is a repository for the Jupyter Notebooks and code used in Statistical Lear
 
 This version: Semester 2, 2017.
 
-## Python Tutorials (under construction)
+## Tutorials in Python (under construction)
 
 [Tutorial 1: Working with Data in Python]()
 <br/>[Tutorial 2: K-Nearest Neighbours Regression]()
