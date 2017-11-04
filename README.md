@@ -3,6 +3,20 @@
 
 This page contains material from Statistical Learning Data Mining, postgraduate unit at the University of Sydney Business School. This version: Semester 2, 2017.
 
+## Python Tutorials (under construction)
+
+[Tutorial 1: Working with Data in Python]()
+<br/>[Tutorial 2: K-Nearest Neighbours Regression]()
+<br/>[Tutorial 3: Regression Modelling]()
+<br/>[Tutorial 4: Cross Validation]()
+<br/>[Tutorial 5: The Bootstrap]()
+<br/>[Tutorial 6: Linear Model Selection and Regularisation]()
+<br/>[Tutorial 7: Naive Bayes and Sentiment Analysis]()
+<br/>[Tutorial 8: Logistic Regression and Gaussian Discriminant Analysis]()
+<br/>[Tutorial 9: Regression Splines]()
+<br/>[Tutorial 10: Regression Trees]()
+<br/>[Tutorial 11: Model Stacking]()
+<br/>[Tutorial 12: Credit Risk Modelling]()
 
 ## Lectures (under construction)
 
@@ -22,28 +36,13 @@ This page contains material from Statistical Learning Data Mining, postgraduate 
 <br/>[Module 14: Model Stacking]()
 <br/>[Module 15: Boosting]()
 
-These slides use figures from Introduction to Statistical Learning and Elements of Statistical Learning (see slides).
-
-## Tutorials (under construction)
-
-[Tutorial 1: Working with Data in Python]()
-<br/>[Tutorial 2: K-Nearest Neighbours Regression]()
-<br/>[Tutorial 3: Regression Modelling]()
-<br/>[Tutorial 4: Cross Validation]()
-<br/>[Tutorial 5: The Bootstrap]()
-<br/>[Tutorial 6: Linear Model Selection and Regularisation]()
-<br/>[Tutorial 7: Naive Bayes and Sentiment Analysis]()
-<br/>[Tutorial 8: Logistic Regression and Gaussian Discriminant Analysis]()
-<br/>[Tutorial 9: Regression Splines]()
-<br/>[Tutorial 10: Regression Trees]()
-<br/>[Tutorial 11: Model Stacking]()
-<br/>[Tutorial 12: Credit Risk Modelling]()
+Acknowledgement: these lectures use figures from Introduction to Statistical Learning and Elements of Statistical Learning (see below).
 
 ## References
 
 Textbook:
 
-[An Introduction to Statistical Learning](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani (main textbook).
+[An Introduction to Statistical Learning](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 
 The lectures and tutorials also draw on material from: 
 
@@ -51,7 +50,7 @@ The lectures and tutorials also draw on material from:
 
 [Statistical Methods in Customer Relationship Management](https://www.amazon.com/Statistical-Methods-Customer-Relationship-Management/dp/1119993202/) by V. Kumar and J. Andrew Petersen.
 
-[Machine Learning: A Probabilistic Perspective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/) by Kevin P. Murphy
+[Machine Learning: A Probabilistic Perspective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/) by Kevin P. Murphy. 
 
 [Mathematical Statistics with Resampling and R](https://www.amazon.com/Mathematical-Statistics-Resampling-Laura-Chihara/dp/1118029852/) by Laura M. Chihara and Tim C. Hesterberg.
 
