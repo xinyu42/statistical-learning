@@ -1,7 +1,9 @@
 # Statistical Learning and Data Mining (QBUS6810)
 **Marcel Scharth, The University of Sydney**
 
-This page contains material from Statistical Learning Data Mining, postgraduate unit at the University of Sydney Business School. This version: Semester 2, 2017.
+This is a repository for the Jupyter Notebooks and code used in Statistical Learning Data Mining, postgraduate unit at the University of Sydney Business School. I additionally provide the lectures in case you need them for future reference. 
+
+This version: Semester 2, 2017.
 
 ## Python Tutorials (under construction)
 
