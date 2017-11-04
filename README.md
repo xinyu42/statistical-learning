@@ -20,7 +20,7 @@ This version: Semester 2, 2017.
 <br/>[Tutorial 11: Model Stacking](https://nbviewer.jupyter.org/github/mscharth/statistical-learning/blob/master/tutorials/Tutorial%2011%20Model%20Stacking.ipynb)
 <br/>[Tutorial 12: Credit Risk Modelling](https://nbviewer.jupyter.org/github/mscharth/statistical-learning/blob/master/tutorials/Tutorial%2012%20Credit%20Risk.ipynb)
 
-## Lectures (under construction)
+## Lectures
 
 [Module 1: Introduction to Statistical Learning](/lectures/QBUS6810-01.pdf)
 <br/>[Module 2: Linear Regression and Statistical Thinking](/lectures/QBUS6810-02.pdf)
@@ -66,6 +66,6 @@ Students are highly encouraged to encourage to consider the following additional
 
 [DataCamp](https://www.datacamp.com/) (Python course  online).
 
-[Learning Data Science (Kaggle Wiki)](https://www.kaggle.com/wiki/Home)
+[Learning Data Science](https://www.kaggle.com/wiki/Home)  (Kaggle Wiki)
 
 [Kaggle Kernels](https://www.kaggle.com/kernels)
